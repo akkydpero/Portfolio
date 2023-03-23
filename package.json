@@ -15,7 +15,7 @@
     "react-ga": "^3.3.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
-  }, 
+  },
   "devDependencies": {},
   "scripts": {
     "build": "npm install && react-scripts build",
@@ -23,5 +23,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }
