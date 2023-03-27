@@ -74,10 +74,6 @@
         "level": "60%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
-      },
-      {
         "name": "ReactJs",
         "level": "70%"
       },
@@ -102,34 +98,22 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
+        "title": "Pocart",
+        "category": "Built an e-commerce website using the MERN stack.",
         "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "url": "https://pocart.onrender.com"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
+        "title": "Covid-19 Vigilance System",
+        "category": "Real-time OpenCV model that recognizes whether an individual is following COVID-19 protocols.",
         "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "url": "https://docs.google.com/presentation/d/1BW4ZJZmImdQcYNUni_FHZo2SOMk0IwCu/edit?usp=sharing&ouid=107591851588574845531&rtpof=true&sd=true/"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
+        "title": "Geo-Location Clustering",
+        "category": "Built a machine learning model to suggest a travel itinerary using unsupervised machine learning clustering.",
         "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "url": "https://docs.google.com/presentation/d/1hRJw3mMG_vXqve-cUg6WHPPB8Q2cgGb3RZ0PEXeFTfc/edit?usp=sharing/"
       }
     ]
   },
