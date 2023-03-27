@@ -14,8 +14,8 @@
       "state": "Karnataka",
       "zip":"560100"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://drive.google.com/file/d/1bi44q-Qnw08ku4ceQLuMwOHgF1H6ajk1/view?usp=sharing",
+    "website": "http://iakshat.com",
+    "resumedownload": "https://drive.google.com/file/d/1FOcGWL3ya_Fqx0N7Iy67JKchhlY45xod/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -48,30 +48,24 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
+        "school": "Sant Longowal Institute of Engineering and Technology ",
+        "degree": "Bachelors in Engineering",
+        "graduated": "July 2021",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Infosys",
+        "title": "Systems Engineer",
+        "years": "Jan 2022 - Present",
+        "description": "Design dynamic and multi-browser compatible pages using HTML, CSS, Bootstrap and ReactJS, Ajax, JavaScript."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Infosys",
+        "title": "Systems Engineer Trainee",
+        "years": "Sept 2021 - Jan 2022",
+        "description": "Learned Theory and hands-on on JavaScript, ReactJS, NodeJS, MongoDB, HTML and CSS, Was in top 5 students of the batch."
       }
     ],
     "skills": [
@@ -85,7 +79,7 @@
       },
       {
         "name": "ReactJs",
-        "level": "50%"
+        "level": "70%"
       },
       {
         "name": "CSS",
