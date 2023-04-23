@@ -1,0 +1,132 @@
+{
+  "main": {
+    "name": "Akshat Garg ",
+    "occupation": "Full Stack Developer",
+    "description": "currently working as Systems Engineer at Infosys, where I slap my keyboard until everything works",
+    "image": "profilepic.jpg",
+    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "akst.grg@gmail.com",
+    "phone": "+91-9460975827",
+    "address": {
+      "street": "Electronic City",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "560100"
+    },
+    "website": "http://iakshat.com",
+    "resumedownload": "https://drive.google.com/file/d/12Vi3dvKBcF1T4J3ybh6ROYfNk6UxSnFr/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/akst.grg",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/iakshatgarg/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_akshatgarg._/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/akkydpero/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Sant Longowal Institute of Engineering and Technology ",
+        "degree": "Bachelors in Engineering",
+        "graduated": "July 2021",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "Infosys",
+        "title": "Systems Engineer",
+        "years": "Jan 2022 - Present",
+        "description": "Design dynamic and multi-browser compatible pages using HTML, CSS, Bootstrap and ReactJS, Ajax, JavaScript."
+      },
+      {
+        "company": "Infosys",
+        "title": "Systems Engineer Trainee",
+        "years": "Sept 2021 - Jan 2022",
+        "description": "Learned Theory and hands-on on JavaScript, ReactJS, NodeJS, MongoDB, HTML and CSS, Was in top 5 students of the batch."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Pocart",
+        "category": "Built an e-commerce website using the MERN stack.",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://pocart.onrender.com"
+      },
+      {
+        "title": "Covid-19 Vigilance System",
+        "category": "Real-time OpenCV model that recognizes whether an individual is following COVID-19 protocols.",
+        "image": "fury-fighting-gear.jpg",
+        "url": "https://docs.google.com/presentation/d/1BW4ZJZmImdQcYNUni_FHZo2SOMk0IwCu/edit?usp=sharing&ouid=107591851588574845531&rtpof=true&sd=true/"
+      },
+      {
+        "title": "Geo-Location Clustering",
+        "category": "Built a machine learning model to suggest a travel itinerary using unsupervised machine learning clustering.",
+        "image": "original-thai-food.jpg",
+        "url": "https://docs.google.com/presentation/d/1hRJw3mMG_vXqve-cUg6WHPPB8Q2cgGb3RZ0PEXeFTfc/edit?usp=sharing/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
